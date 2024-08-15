@@ -1,4 +1,4 @@
-# Automation-testing_mini_project
+# Mini Project of Automation Tesing on AJIO 
 This project contains automated test cases for the Ajio e-commerce website using Selenium WebDriver and TestNG. The test suite aims to cover various functionalities, including searching for products, adding them to the cart, verifying page titles, and handling the shipping and sign-up process.
 
 ## Project Overview
