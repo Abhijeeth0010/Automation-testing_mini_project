@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+<parameter name="Ph_no" value="9845436278"></parameter>
+<parameter name="Name" value="Abcd"></parameter>
+<parameter name="Email" value="abcd@test.com"></parameter>
+<parameter name="OTP" value="2222"></parameter>
+
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="testing_pro.ecommerce"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
