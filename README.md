@@ -23,7 +23,8 @@ Before you begin, ensure you have met the following requirements:
 - An IDE or text editor for Java (e.g., Eclipse, IntelliJ IDEA, VS Code).
 
 
-Test Cases
+
+## Test Cases
 The following test cases are included in the project:
 
 Search and Add to Cart:
