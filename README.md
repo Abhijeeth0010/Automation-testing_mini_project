@@ -21,3 +21,28 @@ Before you begin, ensure you have met the following requirements:
 - Google Chrome browser.
 - [ChromeDriver](https://chromedriver.chromium.org/downloads) compatible with your installed version of Google Chrome.
 - An IDE or text editor for Java (e.g., Eclipse, IntelliJ IDEA, VS Code).
+
+
+Test Cases
+The following test cases are included in the project:
+
+Search and Add to Cart:
+
+Navigates to the Ajio website.
+Searches for "shoes."
+Selects a product and adds it to the cart.
+Title Test:
+
+Verifies that the title of the cart page matches the expected title.
+Logo Test:
+
+Checks if the Ajio logo is displayed on the page.
+Shipping:
+
+Proceeds to the shipping process and enters a phone number.
+Sign Up and OTP:
+
+Completes the sign-up process and sends an OTP for verification.
+OTP Verification:
+
+Enters the wrong OTP and submits it for verification.
